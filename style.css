@@ -1,0 +1,49 @@
+body {
+}
+
+#container {
+	width: 700px;
+	height: 500px;
+	align: center;
+	background-color: red;
+	margin: auto;
+	padding: 
+
+}
+
+.header{
+	width: 700px;
+	height: 20px;
+	background-color: black;
+
+}
+.folder{
+	width: 700px;
+	height: 480px;
+	background-color: white;
+}
+.folder1{
+	width: 150px;
+	height: 480px;
+	background-color: grey;
+	float: left;
+}
+.folder2{
+	width: 550px;
+	height: 480px;
+	background-color: blue;
+	float: left;
+	border-color: brown solid;
+}
+.sub{
+	width: 550px;
+	height: 30px;
+	background-color: brown;
+}
+	.sub2{
+	width: 550px;
+	height: 450px;
+	background-color: white;
+	border-color: 
+
+.row{margin-top:40px;}
